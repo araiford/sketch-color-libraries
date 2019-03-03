@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 120,
+  "changeIdentifier": 123,
   "clippingMaskMode": 0,
   "do_objectID": "2709DC8B-EC5D-4433-9815-363A744B8C34",
   "exportOptions": {
@@ -70,13 +70,18 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "EFFEB0E2-32CB-4047-9F4D-A396BB768D99_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "077EED4C-3EAF-43A9-8F78-417F0D763E66_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "077EED4C-3EAF-43A9-8F78-417F0D763E66/831F1948-E6B1-4803-AF2B-159FDCD6C3CE_symbolID"
     }
   ],
   "resizesContent": false,
