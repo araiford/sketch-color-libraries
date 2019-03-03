@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AE134ED-38A0-4B66-B84D-96AA712BFB2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A6F145D-E073-415D-8E78-24570427806D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF4D166E-F6BC-460C-BF0A-3340803A3B78",
+    "height": 100,
+    "width": 100,
+    "x": 400,
+    "y": 1000
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "color / 03 orange / 0900",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85877D2D-817B-4B0B-BE7C-17680F056C86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4496B016-EC05-4ABF-8AB0-A6E524826FCE",
+  "verticalSpacing": 0
+}
