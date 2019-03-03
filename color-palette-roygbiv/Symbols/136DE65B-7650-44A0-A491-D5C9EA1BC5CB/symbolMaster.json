@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 699,
+  "changeIdentifier": 700,
   "clippingMaskMode": 0,
   "do_objectID": "136DE65B-7650-44A0-A491-D5C9EA1BC5CB",
   "exportOptions": {
@@ -56,7 +56,7 @@
       "id": "58C354EA-0B86-4EB8-BD40-A1A9F57D8C69"
     }
   ],
-  "name": "color / 09 blue / _blue",
+  "name": "09 blue / _blue",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

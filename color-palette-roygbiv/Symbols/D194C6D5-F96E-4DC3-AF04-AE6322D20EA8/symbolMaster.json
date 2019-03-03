@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 496,
+  "changeIdentifier": 497,
   "clippingMaskMode": 0,
   "do_objectID": "D194C6D5-F96E-4DC3-AF04-AE6322D20EA8",
   "exportOptions": {
@@ -49,14 +49,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "728D1591-9CA9-46E0-B50B-C6524E6FCAB4"
     }
   ],
-  "name": "color / 03 orange / _orange",
+  "name": "03 orange / _orange",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

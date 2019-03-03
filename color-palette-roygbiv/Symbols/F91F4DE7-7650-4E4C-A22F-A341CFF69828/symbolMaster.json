@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 454,
   "clippingMaskMode": 0,
   "do_objectID": "F91F4DE7-7650-4E4C-A22F-A341CFF69828",
   "exportOptions": {
@@ -56,7 +56,7 @@
       "id": "038E8425-C11D-4437-B96D-4979143DD16E"
     }
   ],
-  "name": "color / 14 violet-red / _violet-red",
+  "name": "14 violet-red / _violet-red",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

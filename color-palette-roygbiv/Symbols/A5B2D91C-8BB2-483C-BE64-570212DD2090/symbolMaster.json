@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 405,
+  "changeIdentifier": 406,
   "clippingMaskMode": 0,
   "do_objectID": "A5B2D91C-8BB2-483C-BE64-570212DD2090",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,18 +65,18 @@
       "id": "5C3DB33E-3789-40C8-938C-E386414FF53E"
     }
   ],
-  "name": "color / 12 indigo-violet/ 0800",
+  "name": "12 indigo-violet/ 0800",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E985EA62-14CC-4F0E-8DCF-23551C9B6EC2_symbolID"
+      "overrideName": "5C3DB33E-3789-40C8-938C-E386414FF53E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5C3DB33E-3789-40C8-938C-E386414FF53E_symbolID"
+      "overrideName": "E985EA62-14CC-4F0E-8DCF-23551C9B6EC2_symbolID"
     }
   ],
   "resizesContent": false,

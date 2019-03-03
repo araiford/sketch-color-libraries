@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 517,
+  "changeIdentifier": 518,
   "clippingMaskMode": 0,
   "do_objectID": "AFCEF238-BE6F-4CC6-95C3-1E4DB75D157F",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,7 +65,7 @@
       "id": "4AD1E9B0-B762-4822-9289-EADB6DA64C5E"
     }
   ],
-  "name": "color / 13 violet / 0200",
+  "name": "13 violet / 0200",
   "nameIsFixed": true,
   "overrideProperties": [
     {

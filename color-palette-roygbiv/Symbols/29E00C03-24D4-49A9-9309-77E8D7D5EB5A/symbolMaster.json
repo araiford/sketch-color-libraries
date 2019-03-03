@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 257,
+  "changeIdentifier": 258,
   "clippingMaskMode": 0,
   "do_objectID": "29E00C03-24D4-49A9-9309-77E8D7D5EB5A",
   "exportOptions": {
@@ -54,14 +54,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "E8B55432-52A2-49CE-A182-43E9488475A9"
     }
   ],
-  "name": "color / scalers / shade / 0800",
+  "name": "parts / shade / 0800",
   "nameIsFixed": true,
   "overrideProperties": [
     {

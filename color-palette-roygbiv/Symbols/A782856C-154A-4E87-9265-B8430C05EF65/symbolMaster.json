@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 258,
+  "changeIdentifier": 259,
   "clippingMaskMode": 0,
   "do_objectID": "A782856C-154A-4E87-9265-B8430C05EF65",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,7 +65,7 @@
       "id": "8577EFAB-4FF1-41EF-AB4D-9B13539E70E8"
     }
   ],
-  "name": "color / 07 green / 0400",
+  "name": "07 green / 0400",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 336,
+  "changeIdentifier": 337,
   "clippingMaskMode": 0,
   "do_objectID": "85D87748-8D69-422B-AC0B-443029F0CCD7",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,7 +65,7 @@
       "id": "30AFB3CD-1225-440F-B0EB-60C9F56DE66A"
     }
   ],
-  "name": "color / 10 blue-indigo / 0900",
+  "name": "10 blue-indigo / 0900",
   "nameIsFixed": true,
   "overrideProperties": [
     {

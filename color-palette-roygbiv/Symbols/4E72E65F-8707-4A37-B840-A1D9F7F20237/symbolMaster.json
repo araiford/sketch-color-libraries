@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 269,
+  "changeIdentifier": 270,
   "clippingMaskMode": 0,
   "do_objectID": "4E72E65F-8707-4A37-B840-A1D9F7F20237",
   "exportOptions": {
@@ -54,14 +54,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "A66DBE6C-9548-4A12-87C5-94B3494CC184"
     }
   ],
-  "name": "color / scalers / tint / 0300",
+  "name": "parts / tint / 0300",
   "nameIsFixed": true,
   "overrideProperties": [
     {

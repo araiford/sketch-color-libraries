@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 99,
+  "changeIdentifier": 101,
   "clippingMaskMode": 0,
   "do_objectID": "C67989AE-8EC8-4043-BD1C-A0A8AEA9C080",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "do_objectID": "5AE070D4-848E-448D-B6A4-FDF34D6FB913"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -609,8 +609,8 @@
       "id": "DCDCF6FA-205B-43F5-B018-153910FEC200"
     }
   ],
-  "name": "color / palette",
-  "nameIsFixed": false,
+  "name": "palette",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

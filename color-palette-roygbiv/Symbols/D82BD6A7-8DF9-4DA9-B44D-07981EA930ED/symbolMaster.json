@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 813,
+  "changeIdentifier": 814,
   "clippingMaskMode": 0,
   "do_objectID": "D82BD6A7-8DF9-4DA9-B44D-07981EA930ED",
   "exportOptions": {
@@ -56,7 +56,7 @@
       "id": "339ED50B-1866-473E-9773-4F08F18D4509"
     }
   ],
-  "name": "color / 05 yellow / _yellow",
+  "name": "05 yellow / _yellow",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

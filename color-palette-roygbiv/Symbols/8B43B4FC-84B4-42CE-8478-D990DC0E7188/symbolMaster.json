@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 145,
+  "changeIdentifier": 146,
   "clippingMaskMode": 0,
   "do_objectID": "8B43B4FC-84B4-42CE-8478-D990DC0E7188",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,13 +65,13 @@
       "id": "238CC050-7AF9-41D1-A079-2F9CE75F9E28"
     }
   ],
-  "name": "color / 04 orange-yellow / 0400",
+  "name": "04 orange-yellow / 0400",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C36452C5-1964-4C2D-93A0-CF5D0621C3FF_symbolID"
+      "overrideName": "238CC050-7AF9-41D1-A079-2F9CE75F9E28_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

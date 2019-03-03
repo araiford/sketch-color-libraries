@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 669,
+  "changeIdentifier": 670,
   "clippingMaskMode": 0,
   "do_objectID": "70996D1B-523A-4CBE-8999-C64B67ED863F",
   "exportOptions": {
@@ -56,7 +56,7 @@
       "id": "246ABB49-2F84-47C1-9F1C-0B4846EE3EE3"
     }
   ],
-  "name": "color / 12 indigo-violet / _indigo-violet",
+  "name": "12 indigo-violet / _indigo-violet",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
